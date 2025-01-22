@@ -5,10 +5,9 @@ she/her
 -------
 
 * 🌍  I'm based in Sweden
-* ✉️  You can email me at [aio@labnat.se](mailto:aio@labnat.se)
-* NOTE: My email is temporarially out of service
+* ✉️  You can email me at [shape-prayer-grub@duck.com](mailto:shape-prayer-grub@duck.com)
 * ☎️  You can call me at [+1(256)719-6018](tel:+1(256)719-6018)
-* ⚡  You can find other ways to contact me at [aio.labnat.se](https://aio.labnat.se/)
+* ⚡  You can find other ways to contact me at [pi.theaio.se/contact.html](https://pi.theaio.se/contact.html)
 * 🤝  I'm open to collaborating!
 
 ### Skills
